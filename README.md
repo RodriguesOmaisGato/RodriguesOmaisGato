@@ -27,13 +27,18 @@ Here are some ideas to get you started:
 
 <h1>Linguagens</h1>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   
-  <img align="center" alt="Aqui tem um códico de JS" height="30" width="40" 
+  <img align="center" alt="Aqui tem um códico de JS" height="50" width="60" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Aqui tem um códico de HTML" height="30" width="40" 
+  <img align="center" alt="Aqui tem um códico de HTML" height="50" width="60" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Aqui tem um códico de CSS" height="30" width="40" 
+  <img align="center" alt="Aqui tem um códico de CSS" height="50" width="60" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   
- <iframe src="https://giphy.com/embed/Ewzw9sjIDT4RtDFrSG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/show-devil-cuphead-Ewzw9sjIDT4RtDFrSG">via GIPHY</a></p>
+</div>
+  
+<div align="center">
+  <img src="https://media4.giphy.com/media/PfHrNe1cSKAjC/giphy.gif?cid=ecf05e47cvx7jaetve0ndq49p6aan6v510dio365p6ftgcji&rid=giphy.gif&ct=g" width="300px" />
+</div>  
+  
