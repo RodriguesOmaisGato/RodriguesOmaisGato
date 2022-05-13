@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-  Meu perfil de estudos de <strong>JavaScript</strong>
+  Meu perfil de estudos de <strong>JavaScript, CSS, PHP, HTML</strong>
 </h1>
 
 <div  align="left">
