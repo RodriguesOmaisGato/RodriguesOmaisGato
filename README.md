@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-  Meu perfil de estudos de <strong>JavaScript, CSS, PHP, HTML</strong>
+  Meu perfil de estudos de <strong>JavaScript, CSS, PHP, HTML e PYTHON</strong>
 </h1>
 
 <div  align="left">
@@ -35,6 +35,9 @@ Here are some ideas to get you started:
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Aqui tem um códico de CSS" height="50" width="60" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Aqui tem um códico de PHP" height="50" width="60" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+          
   
 </div>
   
